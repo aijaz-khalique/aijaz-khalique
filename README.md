@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Aijaz Khalique
 
-<!--
-**aijaz-khalique/aijaz-khalique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Data Science Student at GIKI
 
-Here are some ideas to get you started:
+💻 Interested in
+- Python
+- SQL
+- Machine Learning
+- Data Analytics
+- Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Data Structures
+- Statistics
+- SQL
+- Machine Learning
+
+📫 Reach Me
+
+LinkedIn:
+https://www.linkedin.com/in/aijaz-khalique/
+
+GitHub:
+https://github.com/aijaz-khalique
+
+⭐ Goal
+To become a professional Data Scientist and contribute to real-world AI projects.
