@@ -1,13 +1,13 @@
-# Hi 👋, I'm Aijaz Khalique
+# Hi , I'm Aijaz Khalique
 
-🎓 BS Data Science Student at Ghulam Ishaq Khan Institute (GIKI)
+BS Data Science Student at Ghulam Ishaq Khan Institute (GIKI)
 
-💡 Passionate about Data Science, Machine Learning, Artificial Intelligence, and Software Development.
+Passionate about Data Science, Machine Learning, Artificial Intelligence, and Software Development.
 
-🚀 Currently building Python projects while learning SQL, Data Structures, and Machine Learning.
+Currently building Python projects while learning SQL, Data Structures, and Machine Learning.
 
 
-## 🛠️ Skills
+## Skills
 
 - Python
 - C++
@@ -18,34 +18,34 @@
 - Matplotlib
 - Machine Learning (Learning)
 
-## 📂 Featured Projects
+## Featured Projects
 
-🐍 Snake Game
+Snake Game
 Python Turtle game with levels, walls, high score, and pause functionality.
 
-💻 NeonVendetta
+NeonVendetta
 C++ project
 
-📊 SQL Practice
+SQL Practice
 Collection of SQL queries and database exercises.
 
 
-💻 Interested in
+Interested in
 - Python
 - SQL
 - Machine Learning
 - Data Analytics
 - Artificial Intelligence
 
-🌱 Currently Learning
+Currently Learning
 - Data Structures
 - Statistics
 - SQL
 - Machine Learning
 
-📫 Reach Me
+Reach Me
 
-📧 Email:
+Email:
 aijazkhalique3@gmail.com
 
 LinkedIn:
@@ -54,5 +54,5 @@ https://www.linkedin.com/in/aijaz-khalique/
 GitHub:
 https://github.com/aijaz-khalique
 
-⭐ Goal
+Goal
 To become a professional Data Scientist and contribute to real-world AI projects.
